@@ -22,7 +22,7 @@ This project demonstrates creating a realistic 3D game scenario using Unity. The
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/SandaruCooray/3D-RealismEvaluvation-MYS.git
 
 
 2.  Open in Unity:
